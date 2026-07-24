@@ -1,17 +1,14 @@
 /* Edit this file first. Most site-wide information is controlled here. */
 window.SITE_CONFIG = {
-  name: "Your Name",
-  shortName: "Your Name",
+  name: "Chi Danh Dao",
+  shortName: "Dan",
   role: "PhD Candidate in Economics",
-  affiliation: "Your University",
-  location: "City, Province/State, Country",
-  email: "your.email@example.com",
-  scholarUrl: "https://scholar.google.com/",
-  githubUrl: "https://github.com/yourusername",
-  linkedinUrl: "https://www.linkedin.com/",
+  affiliation: "Queens' University",
+  location: "Kingston, Ontario, Canada",
+  email: "21cdd3@queensu.ca",
   cvFile: "files/cv.pdf",
   profileImage: "assets/images/profile-placeholder.svg",
   intro:
-    "Welcome. I am a PhD candidate in Economics at Your University. My research interests include household finance, consumer credit, and applied microeconomics.",
+    "Welcome. I am a PhD candidate in Economics at Queen’s University. My primary research interests are in industrial organization, with applications to household finance and consumer credit.",
   copyrightYear: new Date().getFullYear()
 };
