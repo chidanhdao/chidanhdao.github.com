@@ -3,7 +3,7 @@ window.SITE_CONFIG = {
   name: "Chi Danh Dao",
   shortName: "Dan",
   role: "PhD Candidate in Economics",
-  affiliation: "Queens' University",
+  affiliation: "Queen's University",
   location: "Kingston, Ontario, Canada",
   email: "21cdd3@queensu.ca",
   cvFile: "files/cv.pdf",

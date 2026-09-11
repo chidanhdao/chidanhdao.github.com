@@ -7,7 +7,9 @@
     ["cv", "CV", "cv.html"],
     ["research", "Research", "research.html"],
     ["teaching", "Teaching", "teaching.html"],
+    ["experience", "Industry Experience", "experience.html"],
     ["contact", "Contact", "contact.html"]
+   
   ];
 
   const nav = document.querySelector("[data-site-nav]");
@@ -41,9 +43,7 @@
       <p class="profile-affiliation">${escapeHtml(c.affiliation)}</p>
       <div class="profile-links">
         <a href="mailto:${encodeURIComponent(c.email)}">Email</a>
-        <a href="${c.scholarUrl}" target="_blank" rel="noreferrer">Google Scholar</a>
-        <a href="${c.githubUrl}" target="_blank" rel="noreferrer">GitHub</a>
-        <a href="${c.linkedinUrl}" target="_blank" rel="noreferrer">LinkedIn</a>
+       <a href="https://www.linkedin.com/in/danhdao/" target="_blank" rel="noreferrer">LinkedIn</a>
       </div>`;
   }
 
