@@ -7,7 +7,7 @@ window.SITE_CONFIG = {
   location: "Kingston, Ontario, Canada",
   email: "21cdd3@queensu.ca",
   cvFile: "files/cv.pdf",
-  profileImage: "assets/images/profile-placeholder.svg",
+  profileImage: "assets/images/profile_pic.jpg",
   intro:
     "Welcome. I am a PhD candidate in Economics at Queen’s University. My primary research interests are in industrial organization, with applications to household finance and consumer credit.",
   copyrightYear: new Date().getFullYear()
